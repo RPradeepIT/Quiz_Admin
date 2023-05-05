@@ -1,0 +1,21 @@
+.home {
+  transition: all 225ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+}
+.form-group {
+  width: 30rem;
+  padding: 1rem;
+  text-align: center;
+}
+.Login {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 20rem;
+  height: 20rem;
+  margin: auto;
+}
+.LoginTitle {
+  font-size: x-large;
+}
